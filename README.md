@@ -46,7 +46,7 @@ Motivated to leverage Python, SQL, Power BI, Tableau, and Excel to solve complex
 </ul>
 
 ### 👨‍💻 More Projects
-> All projects available at [github.com/akramaftab?tab=repositories](https://github.com/akramaftab?tab=repositories)
+> All projects available at [repositories](https://github.com/akramaftab?tab=repositories)
 
 ### 📫 Connect
 - Email: **Akram01Aftab@gmail.com**
