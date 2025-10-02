@@ -1,6 +1,6 @@
 ![logo](https://github.com/akramaftab/akramaftab/blob/main/Akram%20Aftab%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akram Aftab</h1>
-<h3 align="center">Passionate Data Analyst | Turning data into actionable insights</h3>
+<h3 align="center">Aspiring Data Analyst | Turning data into actionable insights</h3>
 
 <p align="center">
 Motivated to leverage Python, SQL, Power BI, Tableau, and Excel to solve complex business problems and deliver real value.
