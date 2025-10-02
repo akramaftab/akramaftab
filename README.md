@@ -19,7 +19,7 @@ Motivated to leverage Python, SQL, Power BI, Tableau, and Excel to solve complex
     <a href="https://github.com/akramaftab/PYTHON_SQL_ecommerce_project" target="_blank" rel="noreferrer">
       <strong>PYTHON SQL Ecommerce Project</strong>
     </a><br/>
-    Unlocks pizza sales trends, bestselling products, size preferences, and hourly order patterns with SQL joins, aggregations, and business-focused reporting.
+    Analyzes over 45,000 orders and ₹16M total sales to reveal top product categories driving 49% of revenue. Uses Python and SQL to uncover customer buying patterns and payment behaviors for actionable insights.
   </li>
   <br/>
   <img align="right" alt="data" width="300" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
