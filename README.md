@@ -16,8 +16,8 @@ Motivated to leverage Python, SQL, Power BI, Tableau, and Excel to solve complex
 
 <ul>
   <li>
-    <a href="https://github.com/akramaftab/SQL-pizzas-sales-project" target="_blank" rel="noreferrer">
-      <strong>SQL Pizza Sales Analytics Project</strong>
+    <a href="(https://github.com/akramaftab/PYTHON_SQL_ecommerce_project)" target="_blank" rel="noreferrer">
+      <strong>PYTHON SQL Ecommerce Project</strong>
     </a><br/>
     Unlocks pizza sales trends, bestselling products, size preferences, and hourly order patterns with SQL joins, aggregations, and business-focused reporting.
   </li>
