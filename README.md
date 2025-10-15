@@ -31,10 +31,10 @@ Motivated to leverage Python, SQL, Power BI, Tableau, and Excel to solve complex
   </li>
   <br/>
   <li>
-    <a href="https://github.com/akramaftab/tableau-stroke-data-dashboard" target="_blank" rel="noreferrer">
-      <strong>Tableau Stroke Data Dashboard</strong>
+    <a href="[https://github.com/akramaftab/Python_Power_BI_-Hotel_analysis_project]" target="_blank" rel="noreferrer">
+      <strong>Hotel Cancellation analysis project (Python_Power_BI) </strong>
     </a><br/>
-    Visualizes stroke incidence and key risk factors across demographics and health data to support targeted prevention and healthcare management.
+    his project analyzes over 119,000 hotel bookings to identify key factors and patterns driving a 37% cancellation rate, using Python and Power BI to help hotels reduce losses and improve booking reliability.
   </li>
   <br/>
   <li>
