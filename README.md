@@ -17,17 +17,17 @@ Motivated to leverage Python, SQL, Power BI, Tableau, and Excel to solve complex
 <ul>
   <li>
     <a href="https://github.com/akramaftab/PYTHON_SQL_ecommerce_project" target="_blank" rel="noreferrer">
-      <strong>PYTHON SQL Ecommerce Project</strong>
+      <strong>PYTHON & SQL Ecommerce Project</strong>
     </a><br/>
     Analyzes over 45,000 orders and ₹16M total sales to reveal top product categories driving 49% of revenue. Uses Python and SQL to uncover customer buying patterns and payment behaviors for actionable insights.
   </li>
   <br/>
   <img align="right" alt="data" width="300" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
   <li>
-    <a href="https://github.com/akramaftab/power-bi-maven-market-project" target="_blank" rel="noreferrer">
-      <strong>Power BI Maven Market Dashboard</strong>
+    <a href="https://github.com/akramaftab/Pizzas.Sales.Project.SQL-POWER.BI" target="_blank" rel="noreferrer">
+      <strong>SQL & Power BI Pizza Sales Dashboard</strong>
     </a><br/>
-    Interactive Power BI report analyzing 1.76M+ retail sales, customer demographics, returns, and regional KPIs for smarter decision-making.
+    Interactive Power BI & SQL project analyzing 21K+ pizza orders and $817K revenue—spotlighting best and worst sellers, peak order times, and actionable menu insights with easy-to-read visuals for business growth.
   </li>
   <br/>
   <li>
